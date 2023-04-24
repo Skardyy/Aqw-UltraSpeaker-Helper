@@ -8,7 +8,9 @@ https://www.autohotkey.com/
 # How
 all you need is to choose which class you're using apply and then hit q (change it at will in the code) and the gui will tell you if you need to taunt or zone
 
-this script follows the following sequence
+
+# Example
 
 
-![ultraspeaker turns](https://user-images.githubusercontent.com/81825126/234119516-880196b1-1315-4998-90b0-25f5c7218f64.jpg)
+https://user-images.githubusercontent.com/81825126/234123191-8f344460-4e08-4fed-a50c-60f0b9f74641.mp4
+
