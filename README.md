@@ -3,6 +3,7 @@ a script to help people kill UltraSpeaker without losing their minds
 
 # Before
 make sure you have autohotkey installed so you can run the script :)
+https://www.autohotkey.com/
 
 # How
 all you need is to choose which class you're using apply and then hit q (change it at will in the code) and the gui will tell you if you need to taunt or zone
