@@ -6,7 +6,9 @@ make sure you have autohotkey installed so you can run the script :)
 https://www.autohotkey.com/
 
 # How
-all you need is to choose which class you're using apply and then hit q (change it at will in the code) and the gui will tell you if you need to taunt or zone
+all you need is to choose which class you're using apply
+and then everytime the speaker says something hit q (change it at will in the code) 
+the gui will tell you if you need to taunt or zone
 
 
 # Example
