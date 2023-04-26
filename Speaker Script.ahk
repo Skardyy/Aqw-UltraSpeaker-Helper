@@ -1,4 +1,4 @@
-﻿#Persistent
+#Persistent
 Gui, Font, s10, Arial
 Gui, Add, Text, Center h20 w300 vStatusLabel,  Me = ?    Now = ?    Next = ? 
 Gui, Font, s16, Arial
@@ -41,7 +41,7 @@ Init()
 *q::
     counter := Mod(counter + 1, positions.Length() + 1)
     if(counter = 0)
-        counter := 1
+        counter := 3
     action := positions[counter]
 
     if(action = mPos)
@@ -59,6 +59,9 @@ Init()
         GuiControl, +cBlack, Static2, ahk_class AutoHotkeyGUI
         GuiControl,, ActionLabel, Nan
     }   
-    nextAction := positions[Mod(counter, positions.Length()) + 1]
+    nextAction := Mod(counter + 1, positions.Length() + 1)
+    if(nextAction = 0)
+        nextAction := 3
+    nextAction := positions[nextAction]
     GuiControl,, StatusLabel, Me = %mPos%    Now = %action%    Next = %nextAction%
     return
