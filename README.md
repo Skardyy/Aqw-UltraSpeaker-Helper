@@ -1,5 +1,5 @@
-# Depercated
-use
+# Deprecated
+use instead
 
 https://github.com/Skardyy/Aqw-UltraSpeaker-Visualizer
 
