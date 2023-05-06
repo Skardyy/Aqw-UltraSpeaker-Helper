@@ -1,3 +1,11 @@
+# Depercated
+use
+
+https://github.com/Skardyy/Aqw-UltraSpeaker-Visualizer
+
+
+
+
 # Aqw-UltraSpeaker-Helper
 a script to help people kill UltraSpeaker without losing their minds
 
@@ -12,7 +20,6 @@ the gui will tell you if you need to taunt or zone
 
 
 # Example
-
 
 https://user-images.githubusercontent.com/81825126/234123191-8f344460-4e08-4fed-a50c-60f0b9f74641.mp4
 
